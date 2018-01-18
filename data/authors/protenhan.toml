@@ -1,0 +1,13 @@
+id = "protenhan"
+
+[email]
+username = "phillipp.von.rotenhan"
+host = "gmail.com"
+
+[name]
+display = "Phillipp von Rotenhan"
+
+[social]
+email = ""
+#facebook  = "MunifTanjim"
+twitter = "protenhan"
